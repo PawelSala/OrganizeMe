@@ -15,7 +15,7 @@ to log out expand the side menu.
 
 ## Technologies :wrench:
 #### Project is created with:
-* python 3.12.1
+* python 3.9.10
 * figma
 * JSON
 * Firebase Authentication
